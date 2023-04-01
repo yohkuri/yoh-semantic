@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "semantic-release": "semantic-release"
   },
   "keywords": [],
   "author": "Yohsuke Kurita <yohsuke.kurita.open@gmail.com>",
@@ -15,11 +16,22 @@
     "@commitlint/cz-commitlint": "^17.5.0",
     "commitizen": "^4.3.0",
     "husky": "^8.0.3",
-    "inquirer": "^8.2.5"
+    "inquirer": "^8.2.5",
+    "semantic-release": "^21.0.0"
   },
   "config": {
     "commitizen": {
       "path": "@commitlint/cz-commitlint"
     }
+  },
+  "release": {
+    "branches": [
+      "main",
+      "next"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yohsuke-kurita/yoh-semantic.git"
   }
 }
