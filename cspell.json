@@ -5,5 +5,5 @@
   "language": "en",
   "dictionaries": ["node", "npm", "typescript"],
   "ignorePaths": ["/node_modules/**", "*.log"],
-  "words": ["commitlint", "kurita", "yohsuke"]
+  "words": ["commitlint", "conventionalcommits", "kurita", "yohsuke"]
 }
