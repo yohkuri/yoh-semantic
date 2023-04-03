@@ -1,3 +1,10 @@
+## [1.2.2](https://github.com/yohsuke-kurita/yoh-semantic/compare/v1.2.1...v1.2.2) (2023-04-03)
+
+
+### Bug Fixes
+
+* set @semantic-release/git into devDependencies in package.json ([4b9a9c3](https://github.com/yohsuke-kurita/yoh-semantic/commit/4b9a9c3065c8407f6a21bd49962942e4a12b8e12))
+
 ## [1.2.0](https://github.com/yohsuke-kurita/yoh-semantic/compare/v1.1.1...v1.2.0) (2023-04-02)
 
 
