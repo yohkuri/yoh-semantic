@@ -1,3 +1,14 @@
+## [3.0.0](https://github.com/yohsuke-kurita/yoh-semantic/compare/v2.1.0...v3.0.0) (2023-04-09)
+
+
+### ⚠ BREAKING CHANGES
+
+* next.txt is removed.
+
+### Bug Fixes
+
+* remove next.txt ([cd0ec9d](https://github.com/yohsuke-kurita/yoh-semantic/commit/cd0ec9d642a4c1e2f04706dd5e423d6a7c4f6559))
+
 ## [2.1.0](https://github.com/yohsuke-kurita/yoh-semantic/compare/v2.0.0...v2.1.0) (2023-04-09)
 
 
