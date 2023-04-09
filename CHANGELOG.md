@@ -1,3 +1,14 @@
+## [2.0.0](https://github.com/yohsuke-kurita/yoh-semantic/compare/v1.2.2...v2.0.0) (2023-04-09)
+
+
+### ⚠ BREAKING CHANGES
+
+* dummy.txt is removed.
+
+### Bug Fixes
+
+* remove dummy.txt ([cc54f80](https://github.com/yohsuke-kurita/yoh-semantic/commit/cc54f802801c7e49b94178cb8c0920326c4f3758))
+
 ## [2.0.0-beta.1](https://github.com/yohsuke-kurita/yoh-semantic/compare/v1.2.2...v2.0.0-beta.1) (2023-04-03)
 
 
