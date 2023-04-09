@@ -1,3 +1,10 @@
+## [3.1.0](https://github.com/yohsuke-kurita/yoh-semantic/compare/v3.0.0...v3.1.0) (2023-04-09)
+
+
+### Features
+
+* add next2.txt ([cfead66](https://github.com/yohsuke-kurita/yoh-semantic/commit/cfead661d069a7538a0cc58241ae1abc6891fbb7))
+
 ## [3.0.0](https://github.com/yohsuke-kurita/yoh-semantic/compare/v2.1.0...v3.0.0) (2023-04-09)
 
 
